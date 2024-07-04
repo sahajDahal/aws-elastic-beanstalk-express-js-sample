@@ -13,3 +13,4 @@ A continuous delivery pipeline setup for a web application using AWS services.
 ### Services Used:
 AWS Elastic Beanstalk, AWS CodeBuild, AWS CodePipeline
 
+![Pipeline Architecture](https://raw.githubusercontent.com/sahajDahal/aws-elastic-beanstalk-express-js-sample/applicationArchitecture.png)
